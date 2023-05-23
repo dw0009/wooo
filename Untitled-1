@@ -1,0 +1,6 @@
+--Text Noteblock
+
+
+write("hello word") 
+if (done)
+write ("ur momas ")
